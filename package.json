@@ -38,7 +38,7 @@
   },
   "author": "Stan Mine",
   "homepage": "https://stanmine.github.io/bees-and-honey",
-  "license": "DBAD",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/stanmine/bees-and-honey.git"
